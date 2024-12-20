@@ -5,12 +5,13 @@
  - The laboratories reinforce the lecture topics and develops essential programming skills
 
 ## Labs Overview
-- **[Lab 1](https://github.com/kylie-ng/ece244/tree/main/lab1)**: Simple Calculations
-- **[Lab 2](https://github.com/kylie-ng/ece244/tree/main/lab2)**: More Complex Calculations
-- **[Lab 3](https://github.com/kylie-ng/ece244/tree/main/lab3)**: Decisions and Simple Loops
-- **Lab 4**: Loops and Functions
-- **[Lab 5](https://github.com/kylie-ng/ece244/tree/main/lab5)**: Functions and Arrays
-- **[Lab 6](https://github.com/kylie-ng/ece244/tree/main/lab6)**: 2D Arrays
-- **[Lab 7](https://github.com/kylie-ng/ece244/tree/main/lab6)**: Reversi Game — Board Configuration and Move Legality Checking
-- **[Lab 8](https://github.com/kylie-ng/ece244/tree/main/lab6)**: Reversi Game-Player Program
-- **[Lab 9](https://github.com/kylie-ng/ece244/tree/main/lab6)**: Linked Lists
+- **[Lab 0](https://github.com/kylie-ng/aps105/tree/main/lab0)**: Introduction to Visual Studio Code and Basic UNIX Commands
+- **[Lab 1](https://github.com/kylie-ng/aps105/tree/main/lab1)**: Simple Calculations
+- **[Lab 2](https://github.com/kylie-ng/aps105/tree/main/lab2)**: More Complex Calculations
+- **[Lab 3](https://github.com/kylie-ng/aps105/tree/main/lab3)**: Decisions and Simple Loops
+- **[Lab 4](https://github.com/kylie-ng/aps105/tree/main/lab4)**: Loops and Functions
+- **[Lab 5](https://github.com/kylie-ng/aps105/tree/main/lab5)**: Functions and Arrays
+- **[Lab 6](https://github.com/kylie-ng/aps105/tree/main/lab6)**: 2D Arrays
+- **[Lab 7](https://github.com/kylie-ng/aps105/tree/main/lab7)**: Reversi Game — Board Configuration and Move Legality Checking
+- **[Lab 8](https://github.com/kylie-ng/aps105/tree/main/lab8)**: Reversi Game-Player Program
+- **[Lab 9](https://github.com/kylie-ng/aps105/tree/main/lab9)**: Linked Lists
