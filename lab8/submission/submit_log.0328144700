@@ -1,0 +1,17 @@
+Submitting assignment 8 from remote.ecf.utoronto.ca
+Checking for the expected files in the current directory
+lab8part1.c lab8part2.c lab8part3.c
+Attempting to build your code.  Make output follows:
+==================================================================
+gcc lab8part1.c -o lab8part1 -lm
+gcc main.c lab8part2.c liblab8part2.a -o lab8part2 -lm
+------------------------------------------------------------------
+The build appears to have failed.  See the make output for
+more information about the details of the error.
+------------------------------------------------------------------
+This assignment did not compile.
+It will not receive any functionality marks.
+Do want to submit anyways? (y/n): n
+
+No files were submitted
+

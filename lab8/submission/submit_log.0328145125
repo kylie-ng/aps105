@@ -1,0 +1,31 @@
+Submitting assignment 8 from remote.ecf.utoronto.ca
+Checking for the expected files in the current directory
+lab8part1.c lab8part2.c lab8part3.c
+Attempting to build your code.  Make output follows:
+==================================================================
+gcc lab8part1.c -o lab8part1 -lm
+gcc main.c lab8part2.c liblab8part2.a -o lab8part2 -lm
+------------------------------------------------------------------
+The build appears to have failed.  See the make output for
+more information about the details of the error.
+------------------------------------------------------------------
+This assignment did not compile.
+It will not receive any functionality marks.
+Do want to submit anyways? (y/n): y
+
+Submitting files
+
+Verifying submission
+submitaps105s -l 8
+total 20
+-rw-r----- 1 submit aps105sg 9949 Mar 28 14:52 lab8part1.c
+-rw-r----- 1 submit aps105sg    0 Mar 28 14:48 lab8part2.c
+-rw-r----- 1 submit aps105sg    0 Mar 28 14:48 lab8part3.c
+-rw-r----- 1 submit aps105sg  735 Mar 28 14:47 submit_log.0328144700
+-rw-r----- 1 submit aps105sg 1111 Mar 28 14:48 submit_log.0328144720
+Script Error: timestamp does not match submit time for lab8part2.c
+submit time:      Mar 28 14:52
+submit timestamp: Mar 28 14:48
+
+Please retry submission.
+If problems persist contact the head TA
