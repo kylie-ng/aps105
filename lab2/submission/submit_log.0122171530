@@ -1,0 +1,62 @@
+Submitting assignment 2 from remote.ecf.utoronto.ca
+Checking for the expected files in the current directory
+lab2part1.c lab2part2.c lab2part3.c
+Attempting to build your code.  Make output follows:
+==================================================================
+gcc lab2part1.c -o lab2part1 -lm
+gcc lab2part2.c -o lab2part2 -lm
+gcc lab2part3.c -o lab2part3 -lm
+------------------------------------------------------------------
+The build appears to have been successful
+
+Running exercise on the produced executable 'lab2part1'
+############### Testcase 1 Results ##########################
+Functionality: PASS - Output matches solution version 1
+Valgrind:      PASS - No memory leaks detected
+############### Testcase 2 Results ##########################
+Functionality: PASS - Output matches solution version 1
+Valgrind:      PASS - No memory leaks detected
+################# Summary for 2 test(s) #####################
+Functionality: PASS: All tests passed
+Valgrind:      PASS: No memory leaks detected
+
+Running exercise on the produced executable 'lab2part2'
+############### Testcase 4 Results ##########################
+Functionality: PASS - Output matches solution version 1
+Valgrind:      PASS - No memory leaks detected
+############### Testcase 5 Results ##########################
+Functionality: PASS - Output matches solution version 1
+Valgrind:      PASS - No memory leaks detected
+################# Summary for 2 test(s) #####################
+Functionality: PASS: All tests passed
+Valgrind:      PASS: No memory leaks detected
+
+Running exercise on the produced executable 'lab2part3'
+############### Testcase 7 Results ##########################
+Functionality: PASS - Output matches solution version 1
+Valgrind:      PASS - No memory leaks detected
+############### Testcase 8 Results ##########################
+Functionality: PASS - Output matches solution version 1
+Valgrind:      PASS - No memory leaks detected
+############### Testcase 9 Results ##########################
+Functionality: PASS - Output matches solution version 1
+Valgrind:      PASS - No memory leaks detected
+################# Summary for 3 test(s) #####################
+Functionality: PASS: All tests passed
+Valgrind:      PASS: No memory leaks detected
+
+The required files passed exercise
+
+Submitting files
+
+Verifying submission
+submitaps105s -l 2
+total 12
+-rw-r----- 1 submit aps105sg 1247 Jan 22 17:15 lab2part1.c
+-rw-r----- 1 submit aps105sg 1083 Jan 22 17:15 lab2part2.c
+-rw-r----- 1 submit aps105sg 1164 Jan 22 17:15 lab2part3.c
+
+All filesizes match. All timestamps match submission time.
+
+Submission was successful
+

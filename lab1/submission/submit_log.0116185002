@@ -1,0 +1,58 @@
+Submitting assignment 1 from remote.ecf.utoronto.ca
+Checking for the expected files in the current directory
+lab1part1.c lab1part2.c lab1part3.c lab1part4.c
+Attempting to build your code.  Make output follows:
+==================================================================
+gcc lab1part1.c -o lab1part1
+gcc lab1part2.c -o lab1part2
+gcc lab1part3.c -o lab1part3 -lm
+gcc lab1part4.c -o lab1part4
+------------------------------------------------------------------
+The build appears to have been successful
+
+Running exercise on the produced executable 'lab1part1'
+############### Testcase 1 Results ##########################
+Functionality: PASS - Output matches solution
+################# Summary for 1 test(s) #####################
+Functionality: PASS: All tests passed
+
+Running exercise on the produced executable 'lab1part2'
+############### Testcase 2 Results ##########################
+Functionality: PASS - Output matches solution
+############### Testcase 3 Results ##########################
+Functionality: PASS - Output matches solution
+################# Summary for 2 test(s) #####################
+Functionality: PASS: All tests passed
+
+Running exercise on the produced executable 'lab1part3'
+############### Testcase 5 Results ##########################
+Functionality: PASS - Output matches solution
+############### Testcase 6 Results ##########################
+Functionality: PASS - Output matches solution
+################# Summary for 2 test(s) #####################
+Functionality: PASS: All tests passed
+
+Running exercise on the produced executable 'lab1part4'
+############### Testcase 8 Results ##########################
+Functionality: PASS - Output matches solution
+############### Testcase 9 Results ##########################
+Functionality: PASS - Output matches solution
+################# Summary for 2 test(s) #####################
+Functionality: PASS: All tests passed
+
+The required files passed exercise
+
+Submitting files
+
+Verifying submission
+submitaps105s -l 1
+total 16
+-rw-r----- 1 submit aps105sg  328 Jan 16 18:50 lab1part1.c
+-rw-r----- 1 submit aps105sg  870 Jan 16 18:50 lab1part2.c
+-rw-r----- 1 submit aps105sg 1078 Jan 16 18:50 lab1part3.c
+-rw-r----- 1 submit aps105sg  701 Jan 16 18:50 lab1part4.c
+
+All filesizes match. All timestamps match submission time.
+
+Submission was successful
+
